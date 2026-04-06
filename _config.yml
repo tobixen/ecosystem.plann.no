@@ -1,4 +1,5 @@
 title: Python Web Calendaring Ecosystem
 description: Open source Python software for working with calendar data.
 url: https://pycal.org
+baseurl: ""
 permalink: pretty
