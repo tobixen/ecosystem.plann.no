@@ -298,6 +298,10 @@ main {
   color: inherit;
 }
 
+.section-anchor:hover .section-anchor-icon {
+  opacity: 1;
+}
+
 .section-anchor-icon {
   width: 0.9em;
   height: 0.9em;
